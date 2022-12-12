@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="background_entries">
+        <item>Hvit</item>
+        <item>Rosa</item>
+        <item>Blå</item>
+        <item>Lilla</item>
+        <item>Grønn</item>
+    </string-array>
+
+    <string-array name="background_values">
+        <item>#FFFFFF</item>
+        <item>#FFB5E8</item>
+        <item>#ACE7FF</item>
+        <item>#B5B9FF</item>
+        <item>#DBFFD6</item>
+    </string-array>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Oving_7</string>
+    <string name="settings">Innstillinger</string>
+
+    <string name="background_mode_title">Bakgrunn</string>
+    <string name="background_mode">Change background color</string>
+    <string name="background_default_value">#FFFFFF</string>
+
+    <string name="back_button">Tilbake</string>
+</resources>
