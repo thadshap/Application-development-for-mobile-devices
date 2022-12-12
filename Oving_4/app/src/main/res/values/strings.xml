@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Oving_4</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string-array name="titles">
+        <item>Insomnia</item>
+        <item>BatmanBegins</item>
+        <item>The Prestige</item>
+        <item>The Dark Knight</item>
+        <item>Inception</item>
+    </string-array>
+    <string-array name="images">
+        <item>@drawable/insomnia_img</item>
+        <item>@drawable/batman_begins_img</item>
+        <item>@drawable/prestige_img</item>
+        <item>@drawable/dark_knight_img</item>
+        <item>@drawable/inception_img</item>
+    </string-array>
+    <string-array name="description">
+        <item>Insomnia means you regularly have problems sleeping. It usually gets better by changing your sleeping habits.</item>
+        <item>When his parents are killed, billionaire playboy Bruce Wayne relocates to Asia, where he is mentored by Henri Ducard and Ra\'s Al Ghul in how to fight evil. When learning about the plan to wipe out evil in Gotham City by Ducard, Bruce prevents this plan from getting any further and heads back to his home.</item>
+        <item>Period thriller set in Edwardian London where two rival magicians, partners until the tragic death of an assistant during a show, feud bitterly after one of them performs the ultimate magic trick - teleportation. His rival tries desperately to uncover the secret of his routine, experimenting with dangerous new science as his quest takes him to the brink of insanity and jeopardises the lives of everyone around the pair.</item>
+        <item>With the help of allies Lt. Jim Gordon (Gary Oldman) and DA Harvey Dent (Aaron Eckhart), Batman (Christian Bale) has been able to keep a tight lid on crime in Gotham City. But when a vile young criminal calling himself the Joker (Heath Ledger) suddenly throws the town into chaos, the caped Crusader begins to tread a fine line between heroism and vigilantism.</item>
+        <item>A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O., but his tragic past may doom the project and his team to disaster.</item>
+    </string-array>
+</resources>
