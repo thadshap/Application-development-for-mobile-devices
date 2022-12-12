@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/Thadsha/.gradle/daemon/7.3.3/no.ntnu.idatt2506.oving_4.app-mergeDebugResources-29:/layout/fragment_details.xml",
+        "source": "/Users/Thadsha/.gradle/daemon/7.3.3/no.ntnu.idatt2506.oving_4.app-main-32:/layout/fragment_details.xml"
+    },
+    {
+        "merged": "no.ntnu.idatt2506.oving_4.app-mergeDebugResources-29:/layout/activity_main.xml",
+        "source": "no.ntnu.idatt2506.oving_4.app-main-32:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/Thadsha/.gradle/daemon/7.3.3/no.ntnu.idatt2506.oving_4.app-mergeDebugResources-29:/layout/activity_main.xml",
+        "source": "/Users/Thadsha/.gradle/daemon/7.3.3/no.ntnu.idatt2506.oving_4.app-main-32:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/Thadsha/.gradle/daemon/7.3.3/no.ntnu.idatt2506.oving_4.app-mergeDebugResources-29:/layout/fragment_titles.xml",
+        "source": "/Users/Thadsha/.gradle/daemon/7.3.3/no.ntnu.idatt2506.oving_4.app-main-32:/layout/fragment_titles.xml"
+    }
+]
