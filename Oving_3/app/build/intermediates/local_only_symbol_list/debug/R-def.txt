@@ -1,0 +1,25 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id dateOfBirthday
+id dateOfBirthdayInput
+id list
+id name
+id nameInput
+id submit
+layout activity_main
+layout list_of_friends
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.Oving3
+xml backup_rules
+xml data_extraction_rules
